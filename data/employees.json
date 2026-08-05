@@ -1,0 +1,162 @@
+[
+  {
+    "employee_id": "EMP101",
+    "name": "Arjun Mehta",
+    "designation": "Senior AI Engineer",
+    "department": "Artificial Intelligence",
+    "manager": "Priya Nair",
+    "joining_date": "2022-08-15",
+    "experience": 6,
+    "email": "arjun.mehta@company.com",
+    "phone": "+91 9876543211",
+    "location": "Pune",
+    "performance_rating": 4.8,
+    "attendance": 99,
+    "projects_completed": 18,
+    "certifications": [
+      "AWS Solutions Architect",
+      "Azure AI Engineer"
+    ],
+    "skills": {
+      "Python": 96,
+      "PyTorch": 92,
+      "LLMs": 90,
+      "Docker": 88,
+      "AWS": 91
+    },
+    "learning_progress": {
+      "MLOps": 100,
+      "Generative AI": 85,
+      "Leadership": 75,
+      "Communication": 90
+    },
+    "performance_trend": [4.1,4.2,4.4,4.5,4.7,4.8],
+    "attendance_trend": [98,99,99,98,100,99],
+    "project_distribution": {
+      "AI Products": 55,
+      "Research": 25,
+      "Mentoring": 10,
+      "Support": 10
+    }
+  },
+
+  {
+    "employee_id": "EMP102",
+    "name": "Kavya Iyer",
+    "designation": "Cloud Engineer",
+    "department": "Cloud Infrastructure",
+    "manager": "Rohan Kulkarni",
+    "joining_date": "2023-04-10",
+    "experience": 4,
+    "email": "kavya.iyer@company.com",
+    "phone": "+91 9811122233",
+    "location": "Hyderabad",
+    "performance_rating": 4.5,
+    "attendance": 97,
+    "projects_completed": 13,
+    "certifications": [
+      "AWS Developer Associate",
+      "Docker Certified Associate"
+    ],
+    "skills": {
+      "AWS": 94,
+      "Docker": 92,
+      "Kubernetes": 87,
+      "Terraform": 85,
+      "Linux": 90
+    },
+    "learning_progress": {
+      "Azure": 65,
+      "DevOps": 90,
+      "Leadership": 55,
+      "Communication": 82
+    },
+    "performance_trend": [3.9,4.0,4.1,4.3,4.4,4.5],
+    "attendance_trend": [96,97,97,98,97,97],
+    "project_distribution": {
+      "Cloud": 60,
+      "DevOps": 25,
+      "Automation": 15
+    }
+  },
+
+  {
+    "employee_id": "EMP103",
+    "name": "Neha Verma",
+    "designation": "Frontend Developer",
+    "department": "Web Engineering",
+    "manager": "Sandeep Joshi",
+    "joining_date": "2024-01-18",
+    "experience": 3,
+    "email": "neha.verma@company.com",
+    "phone": "+91 9822233344",
+    "location": "Bangalore",
+    "performance_rating": 4.3,
+    "attendance": 96,
+    "projects_completed": 10,
+    "certifications": [
+      "Meta Front-End Developer"
+    ],
+    "skills": {
+      "React": 95,
+      "Next.js": 90,
+      "TypeScript": 88,
+      "Tailwind CSS": 92,
+      "JavaScript": 94
+    },
+    "learning_progress": {
+      "UI/UX": 80,
+      "Accessibility": 75,
+      "Leadership": 45,
+      "Communication": 85
+    },
+    "performance_trend": [3.8,3.9,4.0,4.1,4.2,4.3],
+    "attendance_trend": [95,96,96,97,96,96],
+    "project_distribution": {
+      "Frontend": 70,
+      "UI Design": 20,
+      "Support": 10
+    }
+  },
+
+  {
+    "employee_id": "EMP104",
+    "name": "Vikram Singh",
+    "designation": "Data Engineer",
+    "department": "Data Engineering",
+    "manager": "Asha Patil",
+    "joining_date": "2021-11-22",
+    "experience": 7,
+    "email": "vikram.singh@company.com",
+    "phone": "+91 9899988877",
+    "location": "Chennai",
+    "performance_rating": 4.6,
+    "attendance": 98,
+    "projects_completed": 20,
+    "certifications": [
+      "Google Professional Data Engineer",
+      "Snowflake Core"
+    ],
+    "skills": {
+      "Python": 91,
+      "Spark": 94,
+      "Kafka": 90,
+      "SQL": 96,
+      "Snowflake": 88
+    },
+    "learning_progress": {
+      "Databricks": 70,
+      "AI Pipelines": 65,
+      "Leadership": 80,
+      "Communication": 85
+    },
+    "performance_trend": [4.0,4.2,4.3,4.4,4.5,4.6],
+    "attendance_trend": [97,98,99,98,98,98],
+    "project_distribution": {
+      "Data Pipelines": 55,
+      "Analytics": 25,
+      "Research": 10,
+      "Support": 10
+    }
+  }
+]
